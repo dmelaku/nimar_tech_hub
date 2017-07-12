@@ -1,0 +1,15 @@
+.htaccess
+.project
+.settings
+.buildpath
+.idea
+gulpfile.js
+protected/runtime/application.log
+*.DS_Store
+protected/components_old
+protected/components_old/*
+package.json
+protected/runtime
+node_modules
+npm-debug.log
+target*
